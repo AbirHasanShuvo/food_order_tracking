@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "195508371805",
+    "project_id": "live-tracking-57f37",
+    "storage_bucket": "live-tracking-57f37.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:195508371805:android:d3fdebb9757d6c908a28b4",
+        "android_client_info": {
+          "package_name": "com.example.food_order_tracking"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxiXLuxHwprIGC4AVOpEYN9QgHi8C7yak"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
